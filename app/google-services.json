@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132774805386",
+    "project_id": "hypezone-4989d",
+    "storage_bucket": "hypezone-4989d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132774805386:android:d581b400544763ae8c9273",
+        "android_client_info": {
+          "package_name": "com.pocket.apps.infest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dvwFoTudzSwiOGHIzRrZokvQcyLJaAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
